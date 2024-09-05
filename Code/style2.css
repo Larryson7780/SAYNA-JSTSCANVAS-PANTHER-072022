@@ -4,7 +4,7 @@
 }
 
 .bgi_header {
-    background-image: url("/Ressource Sayna/Wakanda/Pantherwakanda1.png");
+    background-image: url("/Wakanda/Pantherwakanda1.png");
     background-size: cover;
     height: 847px;
     z-index: 1;
@@ -20,6 +20,6 @@
 }
 
 .bgi_main {
-    background-image: url("/Ressource Sayna/Wakanda/Pantherwakanda2.png");
+    background-image: url("/Wakanda/Pantherwakanda2.png");
     background-repeat: no-repeat;
 }
