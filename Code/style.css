@@ -1,0 +1,200 @@
+body {
+    background-image: url("../All page/arrière_plan.png");
+    width: 1580px;
+    background-repeat: no-repeat;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    list-style-type: none;
+    gap: 50px;
+}
+
+.navigation_bar {
+    padding: 20px;
+}
+
+.image_header img{
+    width: 570px;
+}
+
+.text_header {
+    padding-left: 50px;
+}
+
+.text_header p {
+    width: 412px;
+}
+
+.grandeImage {
+    float: left;
+    padding-left: 280px;
+}
+
+.bar_text_image {
+    display: flex;
+}
+
+.espacement {
+    height: 150px;
+}
+
+.bar_image {
+    height: 180px;
+}
+
+.bar_text {
+    text-align: justify;
+    padding: 20px;
+    color: white;
+}
+
+.formulaire {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../Accueil/Pantherhome7.png");
+    height: 1077px;
+    width: 1920px;
+    color: black;
+}
+
+.formulaire input:not(input[type=submit]) {
+    margin: 20px 0;
+    border-radius: 38px;
+}
+
+.formulaire p:nth-of-type(2){
+    font-size: 37px;
+}
+
+.formulaire input[type=text], .formulaire input[type=email] {
+    width: 520px;
+    height: 56px;
+}
+
+.formulaire form input:last-of-type {
+    height: 100px;
+}
+
+.formulaire input[type=submit] {
+    width: 174px;
+    height: 54px;
+    border-radius: 38px;
+    background-color: #F2CEF2;
+}
+
+footer {
+    background-image: url("../All page/back_footer.png");
+    width: 1920px;
+    height: 287px;
+}
+
+.image_footer1 img {
+    width: 200px;
+}
+
+.image_footer2 img {
+    width: 100px;
+    position: relative;
+    top: -145px;
+    left: 50px;
+}
+
+.image_footer {
+    width: 200px;
+    height: 234px;
+    left: 100px;
+}
+
+.image_footer_reseau_sociaux {
+    display: flex;
+    gap: 32px;
+}
+
+.image_footer_reseau_sociaux img{
+    border: 1px solid white;
+    border-radius: 32px;
+    padding: 20px;
+}
+
+.text_footer {
+    color: white;
+}
+
+.text_footer p:first-of-type {
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+.espacement_footer_gauche {
+    height: 12px;
+}
+
+.espacement_footer_droite {
+    height: 50px;
+}
+
+.rectangle_en_bas_image {
+    border: 1px white solid;
+    border-radius: 20px;
+    width: 510px;
+    height: 500px;
+    padding: 55px;
+    background-color: white;
+}
+
+.bouton_lateral_droite {
+    display: flex;
+    gap: 20px;
+}
+
+.bouton_lateral_droite button {
+    background-color: #3D2DA6;
+    border-radius: 10px;
+    color: white;
+}
+
+.positionnement {
+    position: relative;
+    top: 200px;
+}
+
+.partie_droite {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.partie_droite {
+    padding-left: 450px;
+}
+
+address span {
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: panthera;
+    src: url("../Polices/panthera.otf");
+}
+
+@font-face {
+    font-family: BEYNO;
+    src: url("../Polices/BEYNO.ttf");
+}
+
+h1 {
+    font-family: panthera, serif;
+    font-size: 68px;
+}
+
+h2 {
+    font-family: BEYNO, serif;
+    font-size: 32px;
+}

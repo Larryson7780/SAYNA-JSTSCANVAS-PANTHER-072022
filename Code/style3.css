@@ -1,0 +1,66 @@
+.image_header {
+    width: 900px;
+    position: relative;
+    top: -370px;
+    right: 170px ;
+}
+
+.text_imahe_header {
+    display: flex;
+}
+
+.text_header_dans_contour {
+    background-image: url("../Enigme/Pantherenigme2.png");
+}
+
+.bg_img {
+    background-image: url("../Enigme/Pantherenigme2.png");
+    width: 784px;
+    height: 487px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg_img p {
+    width: 550px;
+}
+
+.espacement_text_header {
+    position: relative;
+    bottom: 58px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+form input[type=text]{
+    background: none;
+    width: 520px;
+    height: 56px;
+    border-radius: 38px;
+    margin-bottom: 80px;
+}
+
+form input[type=submit]{
+    width: 174px;
+    height: 54px;
+    border-radius: 38px;
+    background-color: #F2CEF2;
+}
+
+@font-face {
+    font-family: "wakanda f";
+    src: url("../Polices/wakanda-forever-regular.ttf");
+}
+
+h2 {
+    font-family: panthera, serif;
+    font-size: 68px;
+}
+
