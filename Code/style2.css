@@ -1,6 +1,10 @@
 .image_lateral_droite {
-    width: 460px;
-    height: auto;
+    width: 649px;
+    height: 362px;
+}
+
+.image_lateral_droite:hover {
+    transform: scale(1.28);
 }
 
 .bgi_header {
