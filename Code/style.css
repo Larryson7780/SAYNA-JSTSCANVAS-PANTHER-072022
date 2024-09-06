@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "wakanda f";
+    src: url("../Polices/wakanda-forever-regular.ttf");
+}
+
 body {
     background-image: url("../All page/arrière_plan.png");
     width: 1580px;
@@ -11,6 +16,12 @@ body {
     color: white;
     list-style-type: none;
     gap: 50px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: white;
+    font-family: panthera, serif;
 }
 
 .navigation_bar {
