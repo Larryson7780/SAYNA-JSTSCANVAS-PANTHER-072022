@@ -1,8 +1,8 @@
 .image_header {
     width: 900px;
     position: relative;
-    top: -370px;
-    right: 170px ;
+    top: 0;
+    left: 50px;
 }
 
 .text_imahe_header {
