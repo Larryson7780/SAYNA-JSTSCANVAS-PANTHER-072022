@@ -98,3 +98,6 @@ h2 {
     font-size: 43px;
 }
 
+.majuscule {
+    text-transform: uppercase;
+}
