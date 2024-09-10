@@ -88,3 +88,13 @@ h2 {
     margin-left: -70px;
 }
 
+@font-face {
+    font-family: "wakanda regular";
+    src: url("../Polices/wakanda-forever-regular.ttf");
+}
+
+.police {
+    font-family: "wakanda regular", serif;
+    font-size: 43px;
+}
+
