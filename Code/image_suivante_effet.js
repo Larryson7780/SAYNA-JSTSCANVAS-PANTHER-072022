@@ -9,7 +9,7 @@ fleche.style.cursor = "pointer";
 // Fonction pour grandir l'image actuelle
 function grandirImage(index) {
     // Réinitialiser la taille de toutes les images
-    allImages.forEach((img, i) => {
+    allImages.forEach((img) => {
         img.style.transform = "scale(1)"; // Réinitialiser la taille
         img.style.transition = "transform 0.5s"; // Ajouter une transition
     });
