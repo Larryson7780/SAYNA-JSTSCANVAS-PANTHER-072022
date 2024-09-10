@@ -43,11 +43,6 @@ body {
     width: 412px;
 }
 
-.grandeImage {
-    float: left;
-    padding-left: 280px;
-}
-
 .bar_text_image {
     display: flex;
 }
