@@ -64,3 +64,20 @@ h2 {
     font-size: 68px;
 }
 
+.conteneur_fleche {
+     background-color: #071c42;
+    position: relative;
+ }
+
+.taille_fleche {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: auto;
+    background-color: #051739;
+    border-radius: 30px;
+    padding: 10px;
+    margin-left: -70px;
+}
+
