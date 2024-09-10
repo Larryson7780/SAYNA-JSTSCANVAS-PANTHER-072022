@@ -5,6 +5,13 @@
     left: 50px;
 }
 
+.image_header_enigme {
+    width: 960px;
+    position: relative;
+    top: -280px;
+    left: -171px;
+}
+
 .text_imahe_header {
     display: flex;
 }
