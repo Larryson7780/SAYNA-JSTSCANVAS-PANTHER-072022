@@ -65,7 +65,7 @@ h2 {
 }
 
 .conteneur_fleche {
-     background-color: #071c42;
+     background-color: #051739;
     position: relative;
  }
 
@@ -75,7 +75,7 @@ h2 {
     transform: translate(-50%, -50%);
     width: 20px;
     height: auto;
-    background-color: #051739;
+    background-color: #092355;
     border-radius: 30px;
     padding: 10px;
     margin-left: -70px;
